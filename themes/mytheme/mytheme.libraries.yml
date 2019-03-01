@@ -1,0 +1,13 @@
+global-css:
+  version: 1
+  css: 
+    theme:
+      includes/bootstrap/css/bootstrap.min.css: {}
+      css/style.css: {}
+
+global-js:
+  version: 1
+  js:
+    js/main.js: {}
+  dependencies:
+  - core/jquery

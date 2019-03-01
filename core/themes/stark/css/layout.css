@@ -6,3 +6,6 @@
  *
  * @see https://www.drupal.org/project/drupal/issues/2349711
  */
+.layout-container {
+    background-color: purple;
+}

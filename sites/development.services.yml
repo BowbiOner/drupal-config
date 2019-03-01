@@ -7,3 +7,11 @@ parameters:
 services:
   cache.backend.null:
     class: Drupal\Core\Cache\NullBackendFactory
+
+    #set up the twig debugging for our twig templates
+parameters: 
+  twig.config:
+    debug: true
+    auto-reload: true
+    cache: false
+
