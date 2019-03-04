@@ -4,6 +4,7 @@ global-css:
     theme:
       includes/bootstrap/css/bootstrap.min.css: {}
       css/style.css: {}
+      css/main.css: {}
 
 global-js:
   version: 1

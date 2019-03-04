@@ -1,0 +1,27 @@
+/* finally got CSS working with Drupal themes!
+next steps is scss
+ */
+.container {
+  display: flexbox; }
+
+.layout-container {
+  background-color: beige;
+  display: grid; }
+
+.menu {
+  background-color: whitesmoke; }
+
+.node__content {
+  margin-left: 20px;
+  padding: 0px; }
+
+.menu-item {
+  display: inline-block;
+  min-height: 40px;
+  padding: 1rem;
+  align-items: center; }
+
+.region-footer {
+  background-color: green; }
+
+/*# sourceMappingURL=main.css.map */
